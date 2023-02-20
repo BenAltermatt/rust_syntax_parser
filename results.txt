@@ -1,0 +1,21 @@
+((((lean(green))cow)) (lifted brilliantly) ((alice(with(book(at((lean)cow(of(cow)))))))))
+Input is not a sentence.
+(((alice(of((green)alice)))) (lifted quickly) ((book)))
+(((book(with(book)))) (found) ((book(at(book(with((green)book)))))))
+((((mean(green))book(of(alice(at((mean)alice(of(alice(at((lean(lean))cow(at((mean(lean))alice)))))))))))) (found carefully) (((lean)book(at((mean)book(with((green)book(of(cow(of((green(lean))alice(of(alice)))))))))))))
+Input has invalid tokens.
+((((mean)alice)) (found) (((green(green))alice(with(alice)))))
+Input has invalid tokens.
+Input is not a sentence.
+Input has invalid tokens.
+Input is not a sentence.
+Input has invalid tokens.
+(((alice)) (saw) (((green(green))alice)))
+Input is not a sentence.
+((((green)cow(of(book)))) (saw) (((lean(lean))cow(with((green(green))cow(of(book)))))))
+Input has invalid tokens.
+Input is not a sentence.
+((((mean)alice(at(cow)))) (found) ((book)))
+(((cow)) (saw brilliantly) (((lean)alice)))
+(((alice(of((green(mean))book(with((green(lean))alice(at(alice)))))))) (found) ((book(with(book(with((green(green))alice(at(alice)))))))))
+(((alice)) (saw) ((book)))
